@@ -2,11 +2,11 @@
 Generate installation quote based on user defined room dimensions.
 
 Driver Class Pseudo-Code:
-    
-    1) Read input – number of rooms to quote
+
+    1) Read input - number of rooms to quote
     2) Display menu
-    3) Read Input – room information
-    4) While ‘0’ is not selected or room information read does not equall number of rooms per step 1, repeat steps 2 and 3
+    3) Read input - room information
+    4) While '0' is not selected or room information read does not equal number of rooms per step 1, repeat setps 2 and 3
     5) Calculate total area
     6) Calculate costs
     7) Display installation quote to screen

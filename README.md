@@ -11,4 +11,6 @@ Driver Class Pseudo-Code:
     6) Calculate costs
     7) Display installation quote to screen
 
+Area Class UML:
+
 ![Screenshot from 2022-12-12 14-01-08](https://user-images.githubusercontent.com/107145275/207142609-2aa2896e-9aad-4ff1-b189-dd3ce1c440fe.png)
